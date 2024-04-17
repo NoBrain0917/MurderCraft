@@ -14,7 +14,7 @@
 
 - Murder.jar - 메인 파일 (필수)     
 - ProtocolLib.jar - 프로토콜 관련 라이브러리 (필수)      
-- [Simple Voice Chat Mod](https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric&l=forge), [Simple Voice Chat Plugin](https://modrinth.com/plugin/simple-voice-chat/versions?l=paper) - 인게임 마이크 추가, 방송인이거나 게임의 재미를 더 높이고 싶다면 추천합니다. (필수아님, 선택)
+- [Simple Voice Chat Mod](https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric&l=forge), [Simple Voice Chat Plugin](https://modrinth.com/plugin/simple-voice-chat/versions?l=paper) - 인게임 마이크 기능을 추가합니다. 방송인이거나 게임의 재미를 더 높이고 싶다면 추천합니다. (필수아님, 선택)
  
 Simple Voice Chat을 사용하신다면 모든 유저가 Simple Voice Chat Mod 설치, 플러그인 폴더 안에 Simple Voice Chat Plugin을 넣어여 합니다.
 
