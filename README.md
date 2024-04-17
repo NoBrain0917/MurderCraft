@@ -5,7 +5,7 @@
 <br>
          
 ## 설치 방법
-1. 릴리즈에서 최신 버전 다운로드
+1. [릴리즈](https://github.com/NoBrain0917/MurderCraft/releases/)에서 최신 버전 다운로드
 2. 압축풀고 플러그인 폴더 안에 jar파일 2개 집어넣기
 
 ```
