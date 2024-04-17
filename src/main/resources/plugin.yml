@@ -1,0 +1,11 @@
+name: Murder
+version: '${project.version}'
+main: org.flower.murder.Murder
+api-version: '1.19'
+depend: [ ProtocolLib ]
+
+commands:
+  머더:
+    description: "머더 미스테리 커맨드"
+  test:
+    description: "test"
