@@ -1,4 +1,6 @@
 # MurderCraft
+![ex](https://github.com/NoBrain0917/MurderCraft/blob/master/res/example.gif?raw=true)     
+
 자신이 만든 건축물로 머더 미니게임을 즐겨보세요
          
 ---
