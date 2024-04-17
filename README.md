@@ -5,13 +5,17 @@
 <br>
          
 ## 설치 방법
-1. [릴리즈](https://github.com/NoBrain0917/MurderCraft/releases/)에서 최신 버전 다운로드
-2. 압축풀고 플러그인 폴더 안에 jar파일 2개 집어넣기
+1. 1.19.4 Paper 버킷 준비
+2. [릴리즈](https://github.com/NoBrain0917/MurderCraft/releases/)에서 최신 버전 다운로드
+3. 압축풀고 플러그인 폴더 안에 jar파일 2개 집어넣기
 
-```
-Murder.jar - 메인 파일 (필수)
-ProtocolLib.jar - 프로토콜 관련 라이브러리 (필수)
-```
+
+- Murder.jar - 메인 파일 (필수)     
+- ProtocolLib.jar - 프로토콜 관련 라이브러리 (필수)      
+- [Simple Voice Chat Mod](https://modrinth.com/plugin/simple-voice-chat/versions?l=fabric&l=forge), [Simple Voice Chat Plugin](https://modrinth.com/plugin/simple-voice-chat/versions?l=paper) - 인게임 마이크 추가, 방송인이거나 게임의 재미를 더 높이고 싶다면 추천합니다. (필수아님, 선택)
+ 
+Simple Voice Chat을 사용하신다면 모든 유저가 Simple Voice Chat Mod 설치, 플러그인 폴더 안에 Simple Voice Chat Plugin을 넣어여 합니다.
+
 <br>
 
 
@@ -32,7 +36,7 @@ ProtocolLib.jar - 프로토콜 관련 라이브러리 (필수)
 - 살인마와 경찰 그리고 시민이라는 역할이 존재합니다.
 <br>
 
-- 모든 역할은 고유의 능력있습니다. 일정 확률로 능력을 가질 수 있습니다.
+- 모든 역할은 여러가지의 고유의 능력있습니다. 일정 확률로 능력을 가질 수 있습니다.
 - 능력은 황금 조각을 우클릭해 사용할 수 있으며 능력이 있는데 황금 조각이 없다면 패시브 능력입니다.
 <br>
 
@@ -90,4 +94,5 @@ TotalTime (기본값 180) - 게임의 진행 시간입니다. 시간이 다 지�
 
 ### 주의
  - `살인마 선택 -> 경찰 선택 -> 나머지 시민`라는 순서를 가지고 있어 플레이어가 5명인데 `MurdererCount`가 5고 `DetectiveCount`가 1이라면 살인마가 5명, 경찰 0명이 됩니다.
+ - **Paper 기반으로 만들어졌습니다.** Spigot은 테스트안해봐서 몰?루 아마 안될거에요.
 
